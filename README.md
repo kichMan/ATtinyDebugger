@@ -1,2 +1,2 @@
 # ATtinyDebugger
-Assembler debugger for ATtiny on software TX UART
+The debugger for ATtiny on Assembler by software TX UART
